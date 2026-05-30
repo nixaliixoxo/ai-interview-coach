@@ -10,7 +10,7 @@ import InterviewHistory from './pages/InterviewHistory';
 import Pricing from './pages/Pricing';
 import InterviewReport from './pages/InterviewReport';
 
-export const ServerUrl = "http://localhost:9000";
+export const ServerUrl = "https://ai-interview-coach-yy6b.onrender.com";
 
 function App() {
   
