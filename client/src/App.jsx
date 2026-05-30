@@ -10,7 +10,7 @@ import InterviewHistory from './pages/InterviewHistory';
 import Pricing from './pages/Pricing';
 import InterviewReport from './pages/InterviewReport';
 
-export const ServerUrl = "https://ai-interview-coach-yy6b.onrender.com";
+export const ServerUrl = "https://ai-interview-coach-backend-pyqi.onrender.com";
 
 function App() {
   
