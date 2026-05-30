@@ -89,7 +89,9 @@ function Navbar() {
                             <p className='text-md text-black font-medium mb-1'>
                                 {userData?.name}
                             </p>
-                            <button className='w-full text-left text-sm py-2 hover:text-black text-gray-600'>
+                            <button 
+                                onClick={()=>navigate("/history")}
+                                className='w-full text-left text-sm py-2 hover:text-black text-gray-600'>
                                 Interview History
                             </button>
                             <button onClick={handleLogout} className='w-full text-left text-sm py-2 flex items-center gap-2 text-red-500'>
