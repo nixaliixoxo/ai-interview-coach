@@ -1,6 +1,6 @@
 🎯 AI Interview Coach
 
-AI Interview Coach is an AI-driven interview preparation platform built with the MERN stack and OpenROuter API, designed to help candidates excel in technical and behavioral interviews through realistic mock interview experiences. The platform leverages voice-enabled interactions, speech recognition, and intelligent response evaluation to simulate real-world interview scenarios.
+AI Interview Coach is an AI-driven interview preparation platform built with the MERN stack and OpenRouterAI API, designed to help candidates excel in technical and behavioral interviews through realistic mock interview experiences. The platform leverages voice-enabled interactions, speech recognition, and intelligent response evaluation to simulate real-world interview scenarios.
 
 Users can participate in AI-generated interview sessions, receive instant and personalized feedback, analyze their strengths and areas for improvement through comprehensive performance reports, and track their progress over time. By combining conversational AI, detailed analytics, and an intuitive user experience, AI Interview Coach bridges the gap between preparation and actual interviews, empowering candidates to enhance their communication, problem-solving, and interview skills with confidence.
 
